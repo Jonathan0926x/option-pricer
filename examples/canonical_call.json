@@ -1,0 +1,11 @@
+{
+  "spot": 100.0,
+  "strike": 100.0,
+  "rate": 0.05,
+  "volatility": 0.2,
+  "time_years": 1.0,
+  "option_type": "call",
+  "dividend_yield": 0.0,
+  "simulations": 100000,
+  "seed": 7
+}
